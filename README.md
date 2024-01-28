@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravi-Sapkota
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C programming language
+- 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ravi-sapkota/
 <!---
